@@ -1,0 +1,78 @@
+* { 
+margin : 0;
+padding: 0;
+box-sizing: border-box; }
+
+footer{
+	padding-top: 40px;
+	color: #2f4b26;
+	text-align: center;
+	opacity: 0.5;
+	font-size: 20px;
+	font-family: 'Press Start 2P', cursive;
+}
+
+
+h1{
+	text-align: center;
+	
+	font-family: 'Press Start 2P', cursive;
+	padding-top: 40px ;
+}
+
+.t1{ 
+padding-top:  30px; 
+padding-right: 70px ;
+padding-left: 70px;
+} 
+ 
+.f1{
+	padding-right: 70px;
+	padding-left: 70px;
+}
+
+
+
+
+
+
+
+
+html{
+	background-color: #faedcd;
+}
+
+body{    
+
+background-color: #fefae0;
+
+width:  70%;
+
+margin: auto ;
+}
+img {   
+width: 100%; 
+
+height: auto ;
+
+
+
+box-shadow:0 0 20px 1px rgba(0,0,0,0.5);
+
+
+
+}
+
+
+p{ 
+padding: 20px; 
+font-family: 'Press Start 2P', cursive;
+}
+
+
+
+
+
+
+
+
